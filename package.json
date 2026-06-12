@@ -2,6 +2,7 @@
   "name": "actionmodel-quiz-app",
   "version": "0.0.1",
   "private": true,
+  "homepage": "https://iiamyera.github.io/actionmodel-quiz/",
   "type": "module",
   "scripts": {
     "dev": "vite",
